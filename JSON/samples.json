@@ -6,15 +6,15 @@
     "loop": "3m"
   },
   {
-    "name": "",
+    "name": "Smooth",
     "file": "samples/loop.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "5m"
   },
   {
-    "name": "",
+    "name": "Chop",
     "file": "samples/lab7.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "8m"
   }
 ]
