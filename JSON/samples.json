@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Beat",
+    "file": "samples/Lab6-b.mp3",
+    "bpm": "120",
+    "loop": "3m"
+  },
+  {
+    "name": "Smooth",
+    "file": "samples/loop.mp3",
+    "bpm": "120",
+    "loop": "5m"
+  },
+  {
+    "name": "Chop",
+    "file": "samples/lab7.mp3",
+    "bpm": "120",
+    "loop": "8m"
+  }
+]
